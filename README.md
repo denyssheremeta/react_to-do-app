@@ -1,9 +1,8 @@
-# React TypeScript Starter Pack
+## React To-Do App
 
-To use this template click `Use this template`
+Technologies: React, Typescript, JavaScript, HTML5, CSS3, REST API
 
-### Available Scripts
+Simple, intuitive, app for managing simple tasks developed with best practices.
+React To-Do App with API integration for adding, deleting, toggling, and renaming tasks, with authorization.
 
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+- [DEMO LINK](https://denyssheremeta.github.io/react_to-do-app/)
